@@ -4,6 +4,6 @@ So this is my second Github profile because my original one was lost because I h
 
 I want to apoligize that I didn't have any repositories, projects or any contributions because I'm a completly beginner in Github, I'm now trying to learn how to create some repositories or projects including Github pages.
 
-For any comments and feedback please e-mail me at chavezpoon@icloud.com or 230191066@stu.vtc.edu.hk.
+For any comments and feedback please E-mail me at chavezpoon@icloud.com (Personal E-mail) or 230191066@stu.vtc.edu.hk (Academic E-mail).
 
 Thank you very much for your support and may God bless you all!
