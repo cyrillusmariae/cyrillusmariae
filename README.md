@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @cyrillusmariae (Real Name: Chavez Cyrillus Mariae L. H. Poon)
-- 👀 I’m interested in Website Developing and Cybersecurity
-- 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there, this is Cyrillus Mariae (or you can call me Chavez), welcome to my Github profile!
 
-<!---
-cyrillusmariae/cyrillusmariae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+So this is my second Github profile because my original one was lost because I have been forgot my password, so I decided to create a brand new Github profile to start again.
+
+I want to apoligize that I didn't have any repositories, projects or any contributions because I'm a completly beginner in Github, I'm now trying to learn how to create some repositories or projects including Github pages.
+
+For any comments and feedback please e-mail me at chavezpoon@icloud.com.
+
+Thank you very much for your support and may God bless you all!
