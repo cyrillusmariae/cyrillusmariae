@@ -1,4 +1,4 @@
-Hi there, this is Cyrillus Mariae (or you can call me Chavez), welcome to my Github profile!
+Hi there, this is Cyrillus Mariae L. H. Poon (or you can call me Chavez), welcome to my Github profile!
 
 So this is my second Github profile because my original one was lost because I have been forgot my password, so I decided to create a brand new Github profile to start again.
 
