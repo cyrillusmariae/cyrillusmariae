@@ -2,7 +2,7 @@ Hi there, this is Cyrillus Mariae L. H. Poon (or you can call me Chavez), welcom
 
 So this is my second Github profile because my original one was lost because I have been forgot my password, so I decided to create a brand new Github profile to start again.
 
-Since I'm a Github beginner so I didn't have any repositories in a while. 
+Since I'm a Github beginner so I didn't have any repositories in a while, but I hope it will have much more in the coming future!
 
 You are welcome to visit my Personal Homepage which is hosted in Github Pages: https://cyrillusmariae.github.io/
 
