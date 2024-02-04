@@ -8,6 +8,10 @@ So this is my second Github profile because my original one was lost. After all,
 
 Since I'm a Github beginner I didn't have any repositories in a while, but I hope it will have many more in the future!
 
+You can visit my personal homepage: https://cyrillusmariae.com/.
+
+If you have any comments or inquiries, please reach me by E-mail at chavezpoon@icloud.com.
+
 Thank you very much for your support and may God bless you all!
 
 <h3>Little facts about me 🧑</h3>
@@ -15,7 +19,3 @@ Thank you very much for your support and may God bless you all!
 - I've been a Tech Enthusiast since primary school
 - I'm a Roman Catholic
 - I have a lot of PCs in my room
-
-<h4> Connect with me!<h4>
-
-<a href="https://cyrillusmariae.com/" target="_blank">Personal Homepage</a>
