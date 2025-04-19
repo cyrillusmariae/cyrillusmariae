@@ -14,7 +14,7 @@ If you have any comments or inquiries, please reach me by E-mail at chavezpoon@i
 
 Thank you very much for your support and may God bless you all!
 
-<h3>Little fin facts about me 🧑</h3>
+<h3>Little fin facts about me 😗😗😗</h3>
 
 - I've been a Tech Enthusiast since primary school
 - I am 100% "Hong-Konger"
