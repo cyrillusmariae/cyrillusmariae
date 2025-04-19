@@ -1,6 +1,6 @@
 <h1 align="center">Cyrillus Mariae Poon</h1>
 
-<h3>Brief Biography</h3>
+<h3>Who am I?</h3>
 
 Hi there, this is Cyrillus Mariae L. H. Poon (or you can simply call me Chavez), what a very warm welcome to my Github profile!
 
@@ -14,7 +14,7 @@ If you have any comments or inquiries, please reach me by E-mail at chavezpoon@i
 
 Thank you very much for your support and may God bless you all!
 
-<h3>Little fin facts about me 😗😗😗</h3>
+<h3>Little fun facts about me 😗😗😗</h3>
 
 - I've been a Tech Enthusiast since primary school
 - I am 100% "Hong-Konger"
