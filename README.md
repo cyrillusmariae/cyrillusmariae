@@ -8,7 +8,7 @@ So this is my second Github profile because my original one was lost. After all,
 
 Since I'm a Github beginner I didn't have any repositories in a while, but I hope it will have many more in the future!
 
-You can visit my personal homepage: https://cyrillusmariae.github.io/ or https://sites.google.com/view/chavezpoon/home.
+You can visit my personal homepage: https://cyrillusmariae.github.io/ or https://cyrillusmariae.com/.
 
 If you have any comments or inquiries, please reach me by E-mail at chavezpoon@icloud.com.
 
