@@ -20,7 +20,6 @@ Thank you very much for your support and may God bless you all!
 - I am 100% "Hong-Konger"
 - I am a Traditionalist Roman Catholic, in full communion with the Supreme Pontiff in the Vatican
 - I can speak a little bit of Italian, Spanish, Portuguese
-- My Instagram has over 11.4K followers with a Meta Verified "blue tick"
 - One of my dream is moving to Rome, Italy
 - I love playing drums and I obtained Grade 4 with distinction in Rock & Pop drums by Trinity College London on January 2021
 - I have two Chinese names
